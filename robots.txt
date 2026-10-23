@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/peak-state-male-enhancement-capsules-au-nz-ca/sitemap.xml
+Sitemap: https://peak-state-male-enhancement-capsules-au-nz-ca.vercel.app/sitemap-vercel.xml
+Sitemap: https://peak-state-male-enhancement-capsules-au-nz-ca.pages.dev/sitemap-cloudflare.xml
